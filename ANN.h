@@ -1,10 +1,3 @@
-/*	-----------------------------------------
-	The Artificial Neural Network class
-		by Gianfranco Alongi AKA zenon
-	20080118	gianfranco@alongi.se
-	-----------------------------------------
-*/
-
 #ifndef ANN_H
 #define ANN_H
 
